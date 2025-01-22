@@ -1,0 +1,24 @@
+body{background-color: burlywood;}
+.highlight {
+    background-color: yellow; /* Couleur de surlignement */
+    font-weight: bold; /* Texte en gras pour plus de visibilité */
+    padding: 5px; /* Espacement autour du texte */
+    border-radius: 5px; /* Bordures arrondies */
+    color: blue;
+}
+p{color: brown;
+
+}
+ul{
+    color: red;
+}
+.special{
+    border: 2px solid grey;
+}
+#first{
+    color: yellow;
+    font-weight: bold;
+}
+div{
+    margin: 10px;
+}
